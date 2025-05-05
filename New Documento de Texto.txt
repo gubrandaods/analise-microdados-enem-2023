@@ -1,0 +1,10 @@
+1. Identifiquei que muitas colunas possuem valores em branco.
+
+1.1 Temos colunas de participação de cada prova, além de uma coluna com status da redação
+Podemos remover todos que não participaram de todas, para realizar análises baseadas apenas em quem efetivamente realizou/participou da prova. Além da nota da redação (NU_NOTA_REDACAO) > 1, ou TP_STATUS_REDACAO = 1, "sem problemas".
+ 
+
+
+1.2 Podemos antes disso, verificar a quantidade e % de quem participou vs não participou
+
+1.3 
